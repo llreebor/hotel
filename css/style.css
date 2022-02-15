@@ -282,6 +282,7 @@ body.locked {
   -webkit-transform: translate(-50%, -13%);
       -ms-transform: translate(-50%, -13%);
           transform: translate(-50%, -13%);
+  outline: none;
 }
 
 .btn__next {
@@ -292,6 +293,7 @@ body.locked {
   -webkit-transform: translate(-50%, -20%);
       -ms-transform: translate(-50%, -20%);
           transform: translate(-50%, -20%);
+  outline: none;
 }
 
 .footer {
